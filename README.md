@@ -36,11 +36,11 @@
 
 ### Languages and Tools
 
-[![Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,redux,tailwindcss,materialui,nodejs,express,threejs,blender,git,github,gitlab)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=html,css,js,ts,md,react,redux,tailwindcss,materialui,nodejs,express,threejs,blender,git,github,gitlab,figma)](https://skillicons.dev)
 
 ### Currently Learning
 
-[![Learning...](https://skillicons.dev/icons?i=jest,nextjs)](https://skillicons.dev)
+[![Learning...](https://skillicons.dev/icons?i=astro,nextjs,jest)](https://skillicons.dev)
 
 ---
 
@@ -48,6 +48,17 @@
   <summary>:computer: Weekly Coding Time</summary>
 
 <!--START_SECTION:waka-->
+
+```txt
+Total Time: 29 hrs 33 mins
+
+JavaScript       14 hrs 47 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   49.98 %
+Markdown         5 hrs 1 min     ⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   16.97 %
+HTML             4 hrs 39 mins   ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   15.73 %
+Python           1 hr 43 mins    ⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.82 %
+TypeScript       1 hr 4 mins     ⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.61 %
+```
+
 <!--END_SECTION:waka-->
 
 </details>
