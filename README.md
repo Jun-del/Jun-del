@@ -26,7 +26,7 @@
 
 ## Hello, I'm Wei Jun 👋
 
-> /'way june/
+<!-- > /'way june/ -->
 
 ### Connect with me
 
