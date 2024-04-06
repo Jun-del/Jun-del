@@ -36,11 +36,11 @@
 
 ### Languages and Tools
 
-[![Skills](https://skillicons.dev/icons?i=html,css,js,ts,md,react,nextjs,redux,tailwindcss,materialui,nodejs,express,threejs,blender,git,github,gitlab,figma)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=html,css,js,ts,md,react,nextjs,redux,tailwindcss,materialui,postgres,nodejs,express,prisma,vitest,threejs,blender,git,github,gitlab,figma)](https://skillicons.dev)
 
 ### Currently Learning
 
-[![Learning...](https://skillicons.dev/icons?i=aws,astro,svelte,remix,jest,prisma)](https://skillicons.dev)
+[![Learning...](https://skillicons.dev/icons?i=aws,remix)](https://skillicons.dev)
 
 ---
 
