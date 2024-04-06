@@ -63,6 +63,7 @@ TSConfig     4 mins          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 </details>
 
+<!--
 <details>
   <summary>:bar_chart: GitHub Stats</summary>
 
@@ -72,6 +73,7 @@ TSConfig     4 mins          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 ![](https://raw.githubusercontent.com/Jun-del/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
 </details>
+-->
 
 <!--
 Credits:
