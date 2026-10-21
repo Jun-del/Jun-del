@@ -36,40 +36,8 @@
 
 ---
 
-<details>
-  <summary>:computer: Weekly Coding Time</summary>
-
-<!--START_SECTION:waka-->
-
-```txt
-Total Time: 16 hrs 19 mins
-
-TypeScript   6 hrs 49 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   35.30 %
-Markdown     4 hrs 38 mins         ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   24.02 %
-Other        3 hrs                 ⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   15.54 %
-JSON         1 hr 41 mins          ⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   08.79 %
-Bash         55 mins               ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.78 %
-```
-
-<!--END_SECTION:waka-->
-
-</details>
-
-<!--
-<details>
-  <summary>:bar_chart: GitHub Stats</summary>
-
-![](https://raw.githubusercontent.com/Jun-del/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/Jun-del/github-stats/master/generated/overview.svg#gh-light-mode-only)
-![](https://raw.githubusercontent.com/Jun-del/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/Jun-del/github-stats/master/generated/languages.svg#gh-light-mode-only)
-
-</details>
--->
-
 <!--
 Credits:
 1. Skills icons: https://github.com/tandpfun/skill-icons#readme
-2. Coding time: https://github.com/athul/waka-readme
-3. Github stats: https://github.com/jstrieb/github-stats
+2. Github stats: https://github.com/jstrieb/github-stats
 -->
